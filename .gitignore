@@ -1,0 +1,7 @@
+.gradle
+.idea
+TauJavaCourse.iml
+/build
+/history
+/target
+/out
